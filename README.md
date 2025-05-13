@@ -60,8 +60,8 @@ I'm always exploring new tools and frameworks, whether it's improving performanc
 
 ## 📫 Reach Me At
 
-- Email: **youremail@example.com**
-- LinkedIn: [linkedin.com/in/thecodernaman](https://linkedin.com/in/thecodernaman)
+- Email: namansoni8874@gmail.com
+- LinkedIn: [linkedin.com/in/thecodernaman](https://www.linkedin.com/in/naman-soni-5b59441b5/)
 - Twitter: [twitter.com/thecodernaman](https://twitter.com/thecodernaman)
 
 ---
